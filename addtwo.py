@@ -9,3 +9,4 @@ a = n
 b = m
 c = a+b
 print(c)
+d = a*b
