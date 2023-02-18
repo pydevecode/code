@@ -10,3 +10,5 @@ b = m
 c = a+b
 print(c)
 d = a*b
+e = a-b
+
